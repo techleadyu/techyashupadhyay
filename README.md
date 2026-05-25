@@ -251,3 +251,4 @@ I love chatting about **Azure Architecture**, **Microsoft Security**, **Zero Tru
 <sub>Based in Ahmedabad, India · 5+ years in Microsoft cloud delivery · Open to global opportunities · Views expressed are personal</sub>
 
 </div>
+# techyashupadhyay
