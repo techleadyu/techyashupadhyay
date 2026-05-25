@@ -121,7 +121,7 @@ My core belief: **cloud security and cloud delivery are not separate disciplines
 
 <div align="center">
 
-### Azure Track 🔵
+### Microsoft Azure Track 🔵
 
 [![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
 [![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
@@ -130,17 +130,14 @@ My core belief: **cloud security and cloud delivery are not separate disciplines
 [![AZ-500](https://img.shields.io/badge/AZ--500-Azure%20Security%20Engineer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/)
 [![AZ-700](https://img.shields.io/badge/AZ--700-Azure%20Network%20Engineer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-network-engineer-associate/)
 
-### Security & Compliance Track 🟣
+### Microsoft 365 Track 🟣
 
 [![SC-900](https://img.shields.io/badge/SC--900-Security%20%26%20Compliance%20Fundamentals-7B42BC?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/)
 [![SC-200](https://img.shields.io/badge/SC--200-Security%20Operations%20Analyst-7B42BC?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/)
 [![SC-300](https://img.shields.io/badge/SC--300-Identity%20%26%20Access%20Administrator-7B42BC?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/)
 [![SC-400](https://img.shields.io/badge/SC--400-Information%20Protection%20Admin-7B42BC?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/information-protection-administrator/)
 [![SC-401](https://img.shields.io/badge/SC--401-Information%20Security%20Admin-7B42BC?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/information-security-administrator/)
-
-### Microsoft 365 Track 🟠
-
-[![MS-500](https://img.shields.io/badge/MS--500-M365%20Security%20Administrator-D83B01?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/m365-security-administrator/)
+[![MS-500](https://img.shields.io/badge/MS--500-M365%20Security%20Administrator-7B42BC?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/m365-security-administrator/)
 
 ### Cloud Partner 🌐
 
